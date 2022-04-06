@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: short time compared to ./sort1 when working on a sorted.txt
+
+sort2 uses: merge sort
+
+How do you know: random50000.txt is sorted the fastest with ./sort2
+
+sort3 uses: selection sort
+
+How do you know?: significantly longer sort time when working on sorted.txt

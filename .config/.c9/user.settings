@@ -1,0 +1,43 @@
+{
+    "ace": {
+        "@fontSize": 14,
+        "@keyboardmode": "default",
+        "@showFoldWidgets": false,
+        "@showGutter": true,
+        "@showPrintMargin": false,
+        "statusbar": {
+            "@show": true
+        }
+    },
+    "collab": {
+        "@timeslider-visible": false
+    },
+    "language": {
+        "@continuousCompletion": false,
+        "@enterCompletion": false
+    },
+    "openfiles": {
+        "@show": false
+    },
+    "projecttree": {
+        "@showhidden": false
+    },
+    "tabs": {
+        "@asterisk": false,
+        "@show": true,
+        "editorTypes": {
+            "@class": "none",
+            "@exe": "none",
+            "@gz": "none",
+            "@o": "none",
+            "@pyc": "none",
+            "@raw": "none",
+            "@tar": "none",
+            "@zip": "none"
+        }
+    },
+    "terminal": {
+        "@fontsize": 14,
+        "@scrollback": 2000
+    }
+}
